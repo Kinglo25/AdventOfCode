@@ -1,0 +1,10 @@
+<class 'dict'>
+<class 'dict'>
+<class 'dict'>
+<class 'dict'>
+<class 'dict'>
+<class 'dict'>
+<class 'dict'>
+<class 'dict'>
+<class 'dict'>
+Day 12 solution for 2015: 0
